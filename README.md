@@ -31,11 +31,6 @@ Business Insights
 The dashboard highlights patterns in employee turnover across departments, salary groups, and categories, helping HR teams identify areas requiring retention strategies.
 
 
-![Dashboard Overview]
-(dashboard_overview.png)
-![Business Insights]
-(business_insights.png)
-
 Author
 Riddhi Agarwal
 
